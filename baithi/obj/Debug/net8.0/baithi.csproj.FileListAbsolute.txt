@@ -1,0 +1,9 @@
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.csproj.AssemblyReference.cache
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.AssemblyInfoInputs.cache
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.AssemblyInfo.cs
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.csproj.CoreCompileInputs.cache
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.MvcApplicationPartsAssemblyInfo.cs
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.MvcApplicationPartsAssemblyInfo.cache
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.RazorAssemblyInfo.cache
+D:\rider\baithi\baithi\obj\Debug\net8.0\baithi.RazorAssemblyInfo.cs
